@@ -38,10 +38,10 @@ export default function SearchEvent() {
         <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">EventName</th>
+      <th scope="col">EventDate</th>
+      <th scope="col">Sport Name</th>
+      <th scope="col">Sport Type</th>
     </tr>
   </thead>
   <tbody>
